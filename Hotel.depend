@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1687468471 source:c:\users\tupac\documents\codeblock\proyecto\hotel\pila.c
+	"pila.h"
+
+1687462901 c:\users\tupac\documents\codeblock\proyecto\hotel\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687871319 source:c:\users\tupac\documents\codeblock\proyecto\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<shlobj.h>
+	<time.h>
+	<conio.h>
+	<time.h>
+	"src/lib/visual.h"
+	"src/config/files.h"
+	"src/lib/consumible.h"
+	"src/lib/habitacion.h"
+	"src/lib/pila.h"
+	"src/lib/reserva.h"
+	"src/lib/usuario.h"
+	"src/lib/utils.h"
+	"src/lib/menu.h"
+
+1685889967 source:c:\users\tupac\documents\codeblock\proyecto\hotel\crud.c
+	"crud.h"
+
+1685889991 c:\users\tupac\documents\codeblock\proyecto\hotel\crud.h
+	<stdio.h>
+
+1685891371 source:c:\users\tupac\documents\codeblock\proyecto\hotel\alumno.c
+
+1687468471 source:\\tupac-notebook\users\tupac\documents\codeblock\proyecto\hotel\pila.c
+	"pila.h"
+
+1687462901 \\tupac-notebook\users\tupac\documents\codeblock\proyecto\hotel\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687489390 source:\\tupac-notebook\users\tupac\documents\codeblock\proyecto\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<shlobj.h>
+	<time.h>
+	<conio.h>
+	<time.h>
+	"pila.h"
+
+1687736527 c:\users\tupac\documents\codeblock\proyecto\hotel\files.h
+
+1687736403 c:\users\tupac\documents\codeblock\proyecto\hotel\structs.h
+
+1687736031 source:c:\users\tupac\documents\codeblock\proyecto\hotel\usuario.c
+	"usuario.h"
+
+1687736354 c:\users\tupac\documents\codeblock\proyecto\hotel\usuario.h
+	<stdio.h>
+	"structs.h"
+
+1687865897 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\consumible.c
+	"consumible.h"
+	"../config/files.h"
+
+1687841744 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\habitacion.c
+	"habitacion.h"
+	"../config/files.h"
+
+1687797321 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\pila.c
+	"pila.h"
+
+1687749745 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1687841048 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\usuario.c
+	"usuario.h"
+	"consumible.h"
+	"../config/files.h"
+
+1687841037 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\usuario.h
+	<stdio.h>
+	"../config/files.h"
+	"pila.h"
+	"reserva.h"
+	"consumible.h"
+
+1687796024 c:\users\tupac\documents\codeblock\proyecto\hotel\src\config\files.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<shlobj.h>
+
+1687738000 c:\users\tupac\documents\codeblock\proyecto\hotel\src\config\structs.h
+	<stdio.h>
+	<malloc.h>
+
+1687836144 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\reserva.c
+	"reserva.h"
+	"../config/files.h"
+
+1687814205 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\reserva.h
+	<stdio.h>
+	<time.h>
+	"habitacion.h"
+
+1687818483 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\habitacion.h
+	<stdio.h>
+	"pila.h"
+
+1687830246 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\consumible.h
+	"pila.h"
+
+1687833416 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\visual.h
+	<stdio.h>
+	<windows.h>
+
+1687880888 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\visual.c
+	"visual.h"
+
+1687880429 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\utils.c
+	"utils.h"
+
+1687880593 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\utils.h
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+	"../config/files.h"
+	"visual.h"
+	"consumible.h"
+	"habitacion.h"
+	"pila.h"
+	"reserva.h"
+	"usuario.h"
+
+1687880499 c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\menu.h
+	"usuario.h"
+	"utils.h"
+	"reserva.h"
+	"habitacion.h"
+	"utils.h"
+
+1687880903 source:c:\users\tupac\documents\codeblock\proyecto\hotel\src\lib\menu.c
+	"menu.h"
+

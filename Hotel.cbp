@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Hotel" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Hotel" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Hotel" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/config/files.h" />
+		<Unit filename="src/lib/consumible.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/consumible.h" />
+		<Unit filename="src/lib/habitacion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/habitacion.h" />
+		<Unit filename="src/lib/menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/menu.h" />
+		<Unit filename="src/lib/pila.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/pila.h" />
+		<Unit filename="src/lib/reserva.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/reserva.h" />
+		<Unit filename="src/lib/usuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/usuario.h" />
+		<Unit filename="src/lib/utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/utils.h" />
+		<Unit filename="src/lib/visual.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/lib/visual.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
